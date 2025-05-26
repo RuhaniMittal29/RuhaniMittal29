@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a third-year Computer Science student passionate about data analysis and full-stack development.
+
+- [LinkedIn]([https://www.linkedin.com/in/ruhanimittal/])
+- [Portfolio]([https://ruhanimittal.netlify.app])
+
 <!--
 **RuhaniMittal29/RuhaniMittal29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
