@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/170b305d-7e56-45f9-ab60-a7c61a569cb3)### Hi there 👋
+### Hi there 👋
 
 I'm a third-year Computer Science student passionate about data analysis and full-stack development. I love solving real-world problems through clean code, insightful data, and modern web technologies.
 
