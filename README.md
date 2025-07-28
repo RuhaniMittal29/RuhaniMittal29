@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a third-year Computer Science student passionate about data analysis and full-stack development. I love solving real-world problems through clean code, insightful data, and modern web technologies.
+I'm a fourth-year Computer Science student passionate about data analysis and full-stack development. I love solving real-world problems through clean code, insightful data, and modern web technologies.
 
 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ruhanimittal/)
